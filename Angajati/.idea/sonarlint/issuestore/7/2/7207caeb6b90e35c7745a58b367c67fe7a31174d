@@ -1,17 +1,0 @@
-
-o
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(å¾¶Ç
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èõÍæüÿÿÿÿ
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨µ¿‘ùÿÿÿÿ
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†˜ÀÒ
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éœ“¥
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û×¾‰
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÅˆÌüÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©¦ºÒûÿÿÿÿ
-l	java:S116"RRename this field "CNPMock" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ—¾“ıÿÿÿÿ
-A
-java:S1168J"+Return an empty collection instead of null.(¥¹ï
-M
-java:S1135I"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-M
-java:S1135O"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
